@@ -1,0 +1,7 @@
+D:\test\ADO .NET\TransactionSolnApp\bin\Debug\TransactionSolnApp.exe.config
+D:\test\ADO .NET\TransactionSolnApp\bin\Debug\TransactionSolnApp.exe
+D:\test\ADO .NET\TransactionSolnApp\bin\Debug\TransactionSolnApp.pdb
+D:\test\ADO .NET\TransactionSolnApp\obj\Debug\TransactionSolnApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\TransactionSolnApp\obj\Debug\TransactionSolnApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\TransactionSolnApp\obj\Debug\TransactionSolnApp.exe
+D:\test\ADO .NET\TransactionSolnApp\obj\Debug\TransactionSolnApp.pdb
